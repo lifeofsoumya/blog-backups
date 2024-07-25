@@ -44,7 +44,7 @@ Towards the end of 2020, I started learning NodeJS and was again approached by a
 ## Recent Gig
 
 It's been over 7 years since I started freelancing. I explored a few fields before settling into software development.  
-Currently, I share content on the development process of full-stack websites on my YouTube channel.
+Currently, I share content on the development process of full-stack websites on my [YouTube channel](https://youtube.com/@indgeek).
 
 Last month, a client approached us to develop a complete web app for a startup for $3000, with a deadline of 21 days.
 
