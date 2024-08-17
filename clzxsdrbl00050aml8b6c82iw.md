@@ -5,6 +5,8 @@ seoDescription: "When I first started building products, I had a strong belief i
 datePublished: Sat Aug 17 2024 06:58:02 GMT+0000 (Coordinated Universal Time)
 cuid: clzxsdrbl00050aml8b6c82iw
 slug: self-hosting-a-key-lesson-from-building-products-solo
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723878842912/4f41790f-5533-42d9-8607-3119e979925e.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723878833212/96ccef1a-89cf-4f25-acce-a5d8739ad119.png
 tags: technology, saas, product
 
 ---
