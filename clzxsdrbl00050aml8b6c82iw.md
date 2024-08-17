@@ -60,15 +60,17 @@ After struggling with self-hosting for a while, I reached a breaking point. It b
 
 Here’s how I now approach building products as a solo developer:
 
-1. **Hosted Databases**: I switched to using hosted PostgreSQL databases. These managed services offer automated backups, scaling, and monitoring, which removes a significant burden from my shoulders.
+1. **Hosted Databases**: I switched to using hosted PostgreSQL databases like Neon. These managed services offer automated backups, scaling, and monitoring, which removes a significant burden from my shoulders.
     
 2. **Hosted Authentication**: Instead of managing the authentication system with something like Passport, I now use services like Clerk or Firebase Auth. They handle the heavy lifting of security, password management, and social logins.
     
-3. **Hosted Payment Gateways**: Implementing and managing payment systems is complex and high-stakes. I rely on services like Stripe and Paddle to manage payments, subscriptions, and invoicing.
+3. **Hosted Payment Gateways**: Implementing and managing payment systems is complex and high-stakes. I rely on services like Stripe and Lemonsquizzy to manage payments, subscriptions, and other hassles.
     
 4. **Managed Queues and Workers**: For task processing and queues, I moved away from self-hosted Redis and BullMQ to managed services like Amazon SQS. These services offer reliability and scalability out of the box.
     
 5. **Email Delivery**: Sending emails can be the biggest mess, especially when dealing with deliverability issues and you are configuring a mail server on your own. I now use services like SendGrid or Resend for reliable email delivery.
+    
+6. **Blogs and Newsletters:** Delivering impactful content to your followers is crucial for building a solid audience. Therefore, newsletters are essential for authentic ecosystem building. After trying to build and manage my own blog and newsletter system, I have now moved to Hashnode.
     
 
 ## Conclusion: Focus on What Matters
