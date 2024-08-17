@@ -5,6 +5,8 @@ seoDescription: "my freelancing journey started way back in 2016 when I was stil
 datePublished: Mon Jul 22 2024 06:40:27 GMT+0000 (Coordinated Universal Time)
 cuid: clywmazr5001b09jwbkbh1q07
 slug: my-freelancing-journey-since-2016
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723879118850/71735401-b05d-4a17-af31-d9bad6bdbdfd.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723879124430/0f53f3f3-fcb6-4360-922b-11c57f4dcb8c.png
 tags: freelancing
 
 ---
