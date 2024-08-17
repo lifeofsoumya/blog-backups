@@ -1,10 +1,12 @@
 ---
 title: "My observations on React Native as a web developer"
-seoTitle: "My observations on React Native as a web developer "
+seoTitle: "My observations on React Native as a web developer"
 seoDescription: "As a seasoned web developer, I never had the need to build an actual mobile application, until recently I thought of giving it a try to understand how..."
 datePublished: Fri Jul 26 2024 05:30:14 GMT+0000 (Coordinated Universal Time)
 cuid: clz29k3ul000g09jogzxs37oq
 slug: my-observations-on-react-native-as-a-web-developer
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723879319458/34930c44-195c-4db5-b0eb-a66d1f7523d9.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723879323853/9486a5f5-9d35-48b5-9947-c01aff6332fd.png
 tags: react-native, tech
 
 ---
