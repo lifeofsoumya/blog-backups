@@ -5,6 +5,8 @@ seoDescription: "Before I completed my engineering degree, I had more than 5 to 
 datePublished: Sun Jul 09 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clyx0sqgu000809lfasrh51da
 slug: how-did-i-land-a-job-amid-the-recession
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723879302192/f76d60e9-7d18-45e1-8d99-30173debf053.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723879306539/ce505f34-9ea7-4cb2-8054-93d67f49a394.png
 tags: jobs
 
 ---
