@@ -5,6 +5,7 @@ seoDescription: "Engaging in product thinking is essential for tech enthusiasts 
 datePublished: Wed Aug 07 2024 09:21:04 GMT+0000 (Coordinated Universal Time)
 cuid: clzjn36oe000s08jv4b02fa4z
 slug: why-product-thinking-is-essential-for-tech-enthusiasts
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723878991817/da3cbff9-e13d-4d68-a750-a51ff5eaaa13.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723878973003/2d8911c2-1743-466f-bf66-699f48155275.png
 tags: product
 
