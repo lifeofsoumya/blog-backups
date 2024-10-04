@@ -1,6 +1,6 @@
 ---
-title: "My freelancing journey since 2016"
-seoTitle: "My Freelancing journey since 2016"
+title: "From Freelance animator to Software Developer"
+seoTitle: "From Freelance animator to Software Developer"
 seoDescription: "my freelancing journey started way back in 2016 when I was still in school. Driven by a passion to earn some extra pocket money with my existing skills, I b"
 datePublished: Mon Jul 22 2024 06:40:27 GMT+0000 (Coordinated Universal Time)
 cuid: clywmazr5001b09jwbkbh1q07
@@ -11,9 +11,9 @@ tags: freelancing
 
 ---
 
-You all know me as a **software developer**, but my freelancing journey started way back in 2016 when I was still in school. Driven by a passion to earn some extra pocket money with my existing skills, I began exploring various creative fields. At that time, I was heavily invested in content creation and 3D designing alongside my studies.
+From freelance video editor to software developer, my journey began in 2016 when I was in high school and desperately wanted to pursue content creation. With a desire to create gadget unboxing and review videos, I realized I needed some principles to finance those projects, so I started putting my skills to work.
 
-I thought, why not showcase my work to the world and earn some extra bucks as pocket money? So, I registered on Fiverr and got started.
+Why not showcase my work and earn some extra bucks? So, I registered on Fiverr and got started.
 
 ## Early challenges
 
