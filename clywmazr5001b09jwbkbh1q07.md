@@ -45,10 +45,10 @@ Towards the end of 2020, I started learning NodeJS and was again approached by a
 
 ## Recent Gig
 
-It's been over 7 years since I started freelancing. I explored a few fields before settling into software development.  
+It's been over 7 years since I started freelancing. I’m glad I explored a few fields before settling into software development (for now).  
 Currently, I share content on the development process of full-stack websites on my [YouTube channel](https://youtube.com/@indgeek).
 
-Last month, a client approached us to develop a complete web app for a startup for $3000, with a deadline of 21 days.
+Last month, a client approached us to develop a complete web app for building a startup product for $3000, with a deadline of 21 days.
 
 At the moment, I have a few team members to whom I outsource tasks, and I provide mentorship to them. I am mostly unavailable for freelancing tasks due to my full-time job as a software developer.
 
